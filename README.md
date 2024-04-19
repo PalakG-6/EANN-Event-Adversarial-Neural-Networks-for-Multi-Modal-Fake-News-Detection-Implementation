@@ -1,0 +1,1 @@
+# EANN-Event-Adversarial-Neural-Networks-for-Multi-Modal-Fake-News-Detection-Implementation
